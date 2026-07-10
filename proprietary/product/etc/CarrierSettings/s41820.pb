@@ -1,0 +1,13 @@
+
+s41820‘»â¨ñ-
+	ZAIN-GPRSinternet	BatheerJatheerPI
+Zain-MMSMMSBatheerJatheerPZhttp://mms:8002/b172.29.11.12j8080
+imsims
+hoshos"∞
+maxImageHeightò
+maxImageWidth†
+maxMessageSizeÄ∞	
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(
+recipientLimit
+smsToMmsTextThreshold
